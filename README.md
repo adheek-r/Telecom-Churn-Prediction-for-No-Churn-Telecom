@@ -2,6 +2,7 @@
 This repository contains a comprehensive analysis of customer churn for No-Churn Telecom, focusing on data analysis, churn prediction, and identifying key factors influencing churn behavior. The project uses machine learning models such as Random Forest and XGBoost to predict customer churn and assess retention strategies.
 
 Project Overview:
+
 The project is divided into several tasks:
 
 Task 1: Data Exploration and Preprocessing
